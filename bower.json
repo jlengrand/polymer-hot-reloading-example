@@ -1,0 +1,17 @@
+{
+  "name": "polymer-hot-reloading-example",
+  "description": "A simple example of polymer project with hot reloading",
+  "dependencies": {
+    "polymer": "^2.0.0",
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "webcomponentsjs": "^1.0.1"
+  }
+}

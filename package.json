@@ -1,0 +1,16 @@
+{
+  "name": "polymer-hot-reloading-example",
+  "version": "1.0.0",
+  "description": "A simple example of polymer project with hot reloading",
+  "private": true,
+  "scripts": {
+    "start": "browser-sync start --server app -f app --serveStatic bower_components --no-notify"
+  },
+  "author": "Julien Lengrand-Lambert <julien.lengrand-lambert@ing.nl>",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.18.12"
+  },
+  "dependencies": {
+  }
+}
