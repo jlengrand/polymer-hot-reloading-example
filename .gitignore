@@ -60,3 +60,5 @@ typings/
 # no need to share proxy info
 .npmrc
 .bowerrc
+
+yarn.lock
