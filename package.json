@@ -6,7 +6,7 @@
   "scripts": {
     "start": "browser-sync start --server app -f app --serveStatic bower_components --no-notify"
   },
-  "author": "Julien Lengrand-Lambert <julien.lengrand-lambert@ing.nl>",
+  "author": "Julien Lengrand-Lambert <julien@lengrand.fr>",
   "license": "MIT",
   "devDependencies": {
     "browser-sync": "^2.18.12",
